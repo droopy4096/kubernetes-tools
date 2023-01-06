@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 # To override default values for setup use:
 ## 1. setup.sh /my/path for pointing to location of kubernetes-tools
